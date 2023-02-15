@@ -1,0 +1,7 @@
+timestamp;trialindex;trial;trialstarted;trialended;duration;trial_type;button_pressed;pressed_icon;sample_button;movement_condition
+1,practice1,4.915376999997534,12.051106099970639,7.135729099973105,practice,no_movement
+2,practice2,23.859226399916224,30.994124099961482,7.134897700045258,practice,flexion_stop
+3,practice3,37.54800989991054,44.71468859992456,7.1666787000140175,practice,extension_stop
+4,practice4,50.11885759991128,57.254838899942115,7.135981300030835,practice,internal_rotation_stop
+5,practice5,62.59383269993123,69.71164469991345,7.117811999982223,practice,external_rotation_stop
+6,0,78.4944661000045,85.57890619989485,7.084440099890344,main,flexion_stop
